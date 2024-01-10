@@ -1,0 +1,6 @@
+### Execute file with the information below
+json_usage:yes
+json_path:gpu_json/json_example.json
+kernel:integrateBodies
+app:examples/nbodyoptimized/nbody
+flags:-benchmark -numbodies=12401 -i=1 -blocksize=128 -fp64

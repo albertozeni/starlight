@@ -1,0 +1,4 @@
+### Execute file with the information below
+kernel:integrateBodies
+app:examples/nbodyoptimized/nbody
+flags:-benchmark -numbodies=65536 -i=10 -blocksize=512 -fp64

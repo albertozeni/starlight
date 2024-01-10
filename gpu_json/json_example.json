@@ -1,0 +1,9 @@
+{
+    "L1_BW": 4900,
+    "L2_BW": 1230,
+    "GMEM_BW": 288,
+    "HALF_PEAK": 4000,
+    "FP_SINGLE_PEAK": 9800,
+    "FP_DOUBLE_PEAK": 150,
+    "INT_PEAK": 9800
+}

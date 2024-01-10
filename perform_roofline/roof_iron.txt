@@ -1,0 +1,6 @@
+### Execute file with the information below
+json_usage:no
+json_path:
+kernel:mutual_information
+app:../iron-gpu/iron-gpu
+flags:../iron-gpu/sample_images/SE0_cpp/ ../iron-gpu/sample_images/SE2_cpp/ 0 226 10

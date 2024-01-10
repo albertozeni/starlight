@@ -1,0 +1,6 @@
+### Execute file with the information below
+json_usage:no
+json_path:
+kernel:xdrop
+app:../WOLVERINE/demo
+flags:xdrop 3 ../WOLVERINE/inputs_demo/10k.txt 17 100 1 1

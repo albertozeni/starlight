@@ -1,0 +1,6 @@
+### Execute file with the information below
+json_usage:no
+json_path:
+kernel:extendSeedLGappedXDropOneDirectionGlobal
+app:../LOGAN/demo
+flags:../LOGAN/inputs_demo/100k.txt 17 10 1

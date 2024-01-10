@@ -1,0 +1,6 @@
+### Execute file with the information below
+json_usage:no
+json_path:
+kernel:integrateBodies
+app:examples/nbodyoptimized/nbody
+flags:-benchmark -numbodies=65536 -i=1 -blocksize=128 -fp64
